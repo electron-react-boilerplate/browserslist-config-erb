@@ -1,3 +1,1 @@
-module.exports = [
-  `electron ${require('electron/package.json').version}`
-];
+module.exports = [`electron ${require("electron/package.json").version}`];
